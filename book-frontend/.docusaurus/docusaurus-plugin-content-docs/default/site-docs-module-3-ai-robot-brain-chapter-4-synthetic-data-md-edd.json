@@ -1,0 +1,30 @@
+{
+  "id": "module-3-ai-robot-brain/chapter-4-synthetic-data",
+  "title": "Chapter 4: Synthetic Data Generation for Robot Learning",
+  "description": "Techniques for generating synthetic data using photorealistic simulation for AI-driven robot learning applications",
+  "source": "@site/docs/module-3-ai-robot-brain/chapter-4-synthetic-data.md",
+  "sourceDirName": "module-3-ai-robot-brain",
+  "slug": "/module-3-ai-robot-brain/chapter-4-synthetic-data",
+  "permalink": "/docs/module-3-ai-robot-brain/chapter-4-synthetic-data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-ai-robot-brain/chapter-4-synthetic-data.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Chapter 4: Synthetic Data Generation for Robot Learning",
+    "sidebar_position": 4,
+    "title": "Chapter 4: Synthetic Data Generation for Robot Learning",
+    "description": "Techniques for generating synthetic data using photorealistic simulation for AI-driven robot learning applications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Isaac Sim and Photorealistic Worlds",
+    "permalink": "/docs/module-3-ai-robot-brain/chapter-3-isaac-sim-worlds"
+  },
+  "next": {
+    "title": "Chapter 5: Isaac ROS and Hardware-Accelerated Perception",
+    "permalink": "/docs/module-3-ai-robot-brain/chapter-5-isaac-ros-perception"
+  }
+}

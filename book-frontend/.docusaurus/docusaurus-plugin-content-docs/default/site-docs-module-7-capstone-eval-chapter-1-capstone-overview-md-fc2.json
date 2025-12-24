@@ -1,0 +1,37 @@
+{
+  "id": "module-7-capstone-eval/chapter-1-capstone-overview",
+  "title": "Chapter 1 - Capstone Overview and Objectives",
+  "description": "Understanding the capstone project and its integration objectives for the Physical AI and Humanoid Robotics course.",
+  "source": "@site/docs/module-7-capstone-eval/chapter-1-capstone-overview.md",
+  "sourceDirName": "module-7-capstone-eval",
+  "slug": "/module-7-capstone-eval/chapter-1-capstone-overview",
+  "permalink": "/docs/module-7-capstone-eval/chapter-1-capstone-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-7-capstone-eval/chapter-1-capstone-overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Chapter 1 - Capstone Overview and Objectives",
+    "sidebar_label": "Chapter 1 - Overview",
+    "description": "Understanding the capstone project and its integration objectives for the Physical AI and Humanoid Robotics course.",
+    "keywords": [
+      "capstone",
+      "integration",
+      "objectives",
+      "humanoid robotics",
+      "system design"
+    ],
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/module-7-capstone-eval/"
+  },
+  "next": {
+    "title": "Chapter 2 - Architecture",
+    "permalink": "/docs/module-7-capstone-eval/chapter-2-system-architecture"
+  }
+}

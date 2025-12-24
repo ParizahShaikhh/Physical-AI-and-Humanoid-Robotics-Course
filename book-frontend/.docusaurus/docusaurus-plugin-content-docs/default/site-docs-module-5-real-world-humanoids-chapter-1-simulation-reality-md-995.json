@@ -1,0 +1,28 @@
+{
+  "id": "module-5-real-world-humanoids/chapter-1-simulation-reality",
+  "title": "Chapter 1: Simulation to Reality",
+  "description": "Introduction to Sim-to-Real Transfer",
+  "source": "@site/docs/module-5-real-world-humanoids/chapter-1-simulation-reality.md",
+  "sourceDirName": "module-5-real-world-humanoids",
+  "slug": "/module-5-real-world-humanoids/chapter-1-simulation-reality",
+  "permalink": "/docs/module-5-real-world-humanoids/chapter-1-simulation-reality",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-5-real-world-humanoids/chapter-1-simulation-reality.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Chapter 1: Simulation to Reality"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 5: Deployment, Integration, and Real-World Humanoids",
+    "permalink": "/docs/module-5-real-world-humanoids/"
+  },
+  "next": {
+    "title": "Chapter 2: Sim-to-Real Transfer Implementation",
+    "permalink": "/docs/module-5-real-world-humanoids/chapter-2-sim-to-real-transfer"
+  }
+}

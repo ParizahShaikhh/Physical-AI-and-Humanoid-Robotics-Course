@@ -1,0 +1,37 @@
+{
+  "id": "module-7-capstone-eval/chapter-3-end-to-end-pipeline",
+  "title": "Chapter 3 - End-to-End Humanoid Pipeline",
+  "description": "Creating a complete end-to-end humanoid robotics pipeline that connects perception, planning, and action systems.",
+  "source": "@site/docs/module-7-capstone-eval/chapter-3-end-to-end-pipeline.md",
+  "sourceDirName": "module-7-capstone-eval",
+  "slug": "/module-7-capstone-eval/chapter-3-end-to-end-pipeline",
+  "permalink": "/docs/module-7-capstone-eval/chapter-3-end-to-end-pipeline",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-7-capstone-eval/chapter-3-end-to-end-pipeline.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Chapter 3 - End-to-End Humanoid Pipeline",
+    "sidebar_label": "Chapter 3 - Pipeline",
+    "description": "Creating a complete end-to-end humanoid robotics pipeline that connects perception, planning, and action systems.",
+    "keywords": [
+      "end-to-end",
+      "pipeline",
+      "perception-action",
+      "humanoid robotics",
+      "integration"
+    ],
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2 - Architecture",
+    "permalink": "/docs/module-7-capstone-eval/chapter-2-system-architecture"
+  },
+  "next": {
+    "title": "Chapter 4 - Evaluation",
+    "permalink": "/docs/module-7-capstone-eval/chapter-4-evaluation-metrics"
+  }
+}

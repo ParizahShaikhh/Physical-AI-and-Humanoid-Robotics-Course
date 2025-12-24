@@ -1,0 +1,28 @@
+{
+  "id": "module-7-capstone-eval/assessment-rubric",
+  "title": "Assessment Rubric and Success Criteria",
+  "description": "Detailed assessment rubric and success criteria for evaluating capstone projects.",
+  "source": "@site/docs/module-7-capstone-eval/assessment-rubric.md",
+  "sourceDirName": "module-7-capstone-eval",
+  "slug": "/module-7-capstone-eval/assessment-rubric",
+  "permalink": "/docs/module-7-capstone-eval/assessment-rubric",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-7-capstone-eval/assessment-rubric.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Assessment Rubric and Success Criteria",
+    "sidebar_label": "Assessment Rubric",
+    "description": "Detailed assessment rubric and success criteria for evaluating capstone projects.",
+    "keywords": [
+      "assessment",
+      "rubric",
+      "success criteria",
+      "evaluation",
+      "capstone"
+    ],
+    "sidebar_position": 10
+  }
+}

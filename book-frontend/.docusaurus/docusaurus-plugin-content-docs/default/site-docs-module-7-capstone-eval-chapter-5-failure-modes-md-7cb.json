@@ -1,0 +1,37 @@
+{
+  "id": "module-7-capstone-eval/chapter-5-failure-modes",
+  "title": "Chapter 5 - Failure Modes and System Limitations",
+  "description": "Identifying and addressing failure modes and system limitations in the integrated humanoid robotics system.",
+  "source": "@site/docs/module-7-capstone-eval/chapter-5-failure-modes.md",
+  "sourceDirName": "module-7-capstone-eval",
+  "slug": "/module-7-capstone-eval/chapter-5-failure-modes",
+  "permalink": "/docs/module-7-capstone-eval/chapter-5-failure-modes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-7-capstone-eval/chapter-5-failure-modes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Chapter 5 - Failure Modes and System Limitations",
+    "sidebar_label": "Chapter 5 - Failures & Limitations",
+    "description": "Identifying and addressing failure modes and system limitations in the integrated humanoid robotics system.",
+    "keywords": [
+      "failure modes",
+      "limitations",
+      "robustness",
+      "safety",
+      "humanoid robotics"
+    ],
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4 - Evaluation",
+    "permalink": "/docs/module-7-capstone-eval/chapter-4-evaluation-metrics"
+  },
+  "next": {
+    "title": "Chapter 6 - Documentation & Demos",
+    "permalink": "/docs/module-7-capstone-eval/chapter-6-documentation-demos"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-5-real-world-humanoids/chapter-7-deployment-maintenance",
+  "title": "Chapter 7: Deployment and Maintenance Operations",
+  "description": "Overview of Deployment Operations",
+  "source": "@site/docs/module-5-real-world-humanoids/chapter-7-deployment-maintenance.md",
+  "sourceDirName": "module-5-real-world-humanoids",
+  "slug": "/module-5-real-world-humanoids/chapter-7-deployment-maintenance",
+  "permalink": "/docs/module-5-real-world-humanoids/chapter-7-deployment-maintenance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-5-real-world-humanoids/chapter-7-deployment-maintenance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "Chapter 7: Deployment and Maintenance Operations"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 6: Performance Evaluation and Optimization",
+    "permalink": "/docs/module-5-real-world-humanoids/chapter-6-performance-evaluation"
+  },
+  "next": {
+    "title": "Module 6: Advanced Topics, Optimization, and Future Directions",
+    "permalink": "/docs/module-6-advanced-topics/"
+  }
+}

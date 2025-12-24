@@ -1,0 +1,28 @@
+{
+  "id": "module-5-real-world-humanoids/chapter-3-system-integration",
+  "title": "Chapter 3: System Integration and Runtime Orchestration",
+  "description": "Overview of Unified Runtime Systems",
+  "source": "@site/docs/module-5-real-world-humanoids/chapter-3-system-integration.md",
+  "sourceDirName": "module-5-real-world-humanoids",
+  "slug": "/module-5-real-world-humanoids/chapter-3-system-integration",
+  "permalink": "/docs/module-5-real-world-humanoids/chapter-3-system-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-5-real-world-humanoids/chapter-3-system-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Chapter 3: System Integration and Runtime Orchestration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: Sim-to-Real Transfer Implementation",
+    "permalink": "/docs/module-5-real-world-humanoids/chapter-2-sim-to-real-transfer"
+  },
+  "next": {
+    "title": "Chapter 4: Safety and Human Interaction Protocols",
+    "permalink": "/docs/module-5-real-world-humanoids/chapter-4-safety-human-interaction"
+  }
+}

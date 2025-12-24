@@ -1,0 +1,28 @@
+{
+  "id": "module-5-real-world-humanoids/index",
+  "title": "Module 5: Deployment, Integration, and Real-World Humanoids",
+  "description": "Welcome to Module 5 of the Physical AI and Humanoid Robotics Course. This module focuses on bridging simulation and AI planning into deployable humanoid systems, addressing system integration, testing, safety, and performance in real environments.",
+  "source": "@site/docs/module-5-real-world-humanoids/index.md",
+  "sourceDirName": "module-5-real-world-humanoids",
+  "slug": "/module-5-real-world-humanoids/",
+  "permalink": "/docs/module-5-real-world-humanoids/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-5-real-world-humanoids/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Module 5: Deployment, Integration, and Real-World Humanoids"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 7: Capstone - The Autonomous Humanoid",
+    "permalink": "/docs/module-4-vla-systems/chapter-7-capstone"
+  },
+  "next": {
+    "title": "Chapter 1: Simulation to Reality",
+    "permalink": "/docs/module-5-real-world-humanoids/chapter-1-simulation-reality"
+  }
+}

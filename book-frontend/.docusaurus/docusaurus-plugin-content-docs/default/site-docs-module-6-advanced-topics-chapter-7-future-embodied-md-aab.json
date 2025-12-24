@@ -1,0 +1,28 @@
+{
+  "id": "module-6-advanced-topics/chapter-7-future-embodied",
+  "title": "Chapter 7: The Future of Embodied",
+  "description": "Introduction to the Future of Embodied AI",
+  "source": "@site/docs/module-6-advanced-topics/chapter-7-future-embodied.md",
+  "sourceDirName": "module-6-advanced-topics",
+  "slug": "/module-6-advanced-topics/chapter-7-future-embodied",
+  "permalink": "/docs/module-6-advanced-topics/chapter-7-future-embodied",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-6-advanced-topics/chapter-7-future-embodied.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "Chapter 7: The Future of Embodied"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 6: Emerging Trends in Humanoid Robotics",
+    "permalink": "/docs/module-6-advanced-topics/chapter-6-emerging-trends"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/module-7-capstone-eval/"
+  }
+}

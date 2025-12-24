@@ -1,0 +1,30 @@
+{
+  "id": "module-1-ros2/chapter-5-python-agents",
+  "title": "Chapter 5: Python Agents with rclpy",
+  "description": "Writing ROS 2 nodes in Python and bridging AI logic to controllers",
+  "source": "@site/docs/module-1-ros2/chapter-5-python-agents.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/chapter-5-python-agents",
+  "permalink": "/docs/module-1-ros2/chapter-5-python-agents",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/chapter-5-python-agents.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Chapter 5: Python Agents",
+    "sidebar_position": 5,
+    "title": "Chapter 5: Python Agents with rclpy",
+    "description": "Writing ROS 2 nodes in Python and bridging AI logic to controllers"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: Services and Actions",
+    "permalink": "/docs/module-1-ros2/chapter-4-services-actions"
+  },
+  "next": {
+    "title": "Chapter 6: URDF Modeling",
+    "permalink": "/docs/module-1-ros2/chapter-6-urdf-modeling"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "module-1-ros2/chapter-6-urdf-modeling",
+  "title": "Chapter 6: Humanoid Robot Modeling with URDF",
+  "description": "Creating robot models using Unified Robot Description Format for simulation and control",
+  "source": "@site/docs/module-1-ros2/chapter-6-urdf-modeling.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/chapter-6-urdf-modeling",
+  "permalink": "/docs/module-1-ros2/chapter-6-urdf-modeling",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/chapter-6-urdf-modeling.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Chapter 6: URDF Modeling",
+    "sidebar_position": 6,
+    "title": "Chapter 6: Humanoid Robot Modeling with URDF",
+    "description": "Creating robot models using Unified Robot Description Format for simulation and control"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 5: Python Agents",
+    "permalink": "/docs/module-1-ros2/chapter-5-python-agents"
+  },
+  "next": {
+    "title": "Chapter 7: End-to-End Integration",
+    "permalink": "/docs/module-1-ros2/chapter-7-end-to-end"
+  }
+}

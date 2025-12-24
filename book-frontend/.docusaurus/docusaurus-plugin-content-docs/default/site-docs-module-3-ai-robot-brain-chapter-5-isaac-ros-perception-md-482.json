@@ -1,0 +1,30 @@
+{
+  "id": "module-3-ai-robot-brain/chapter-5-isaac-ros-perception",
+  "title": "Chapter 5: Isaac ROS and Hardware-Accelerated Perception",
+  "description": "Understanding Isaac ROS and hardware-accelerated perception for AI-driven robotics applications",
+  "source": "@site/docs/module-3-ai-robot-brain/chapter-5-isaac-ros-perception.md",
+  "sourceDirName": "module-3-ai-robot-brain",
+  "slug": "/module-3-ai-robot-brain/chapter-5-isaac-ros-perception",
+  "permalink": "/docs/module-3-ai-robot-brain/chapter-5-isaac-ros-perception",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-ai-robot-brain/chapter-5-isaac-ros-perception.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Chapter 5: Isaac ROS and Hardware-Accelerated Perception",
+    "sidebar_position": 5,
+    "title": "Chapter 5: Isaac ROS and Hardware-Accelerated Perception",
+    "description": "Understanding Isaac ROS and hardware-accelerated perception for AI-driven robotics applications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: Synthetic Data Generation for Robot Learning",
+    "permalink": "/docs/module-3-ai-robot-brain/chapter-4-synthetic-data"
+  },
+  "next": {
+    "title": "Chapter 6: Visual SLAM and Navigation with Nav2",
+    "permalink": "/docs/module-3-ai-robot-brain/chapter-6-vslam-navigation"
+  }
+}

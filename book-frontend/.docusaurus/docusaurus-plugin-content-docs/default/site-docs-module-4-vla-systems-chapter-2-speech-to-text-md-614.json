@@ -1,0 +1,24 @@
+{
+  "id": "module-4-vla-systems/chapter-2-speech-to-text",
+  "title": "Chapter 2: Speech-to-Text with OpenAI Whisper",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-4-vla-systems/chapter-2-speech-to-text.md",
+  "sourceDirName": "module-4-vla-systems",
+  "slug": "/module-4-vla-systems/chapter-2-speech-to-text",
+  "permalink": "/docs/module-4-vla-systems/chapter-2-speech-to-text",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-vla-systems/chapter-2-speech-to-text.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Vision-Language-Action in Physical AI",
+    "permalink": "/docs/module-4-vla-systems/chapter-1-vla-physical-ai"
+  },
+  "next": {
+    "title": "Chapter 3: Language Understanding and Task Decomposition",
+    "permalink": "/docs/module-4-vla-systems/chapter-3-language-understanding"
+  }
+}

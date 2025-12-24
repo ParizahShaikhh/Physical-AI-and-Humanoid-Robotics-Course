@@ -1,0 +1,28 @@
+{
+  "id": "module-5-real-world-humanoids/chapter-6-performance-evaluation",
+  "title": "Chapter 6: Performance Evaluation and Optimization",
+  "description": "Overview of Performance Evaluation Methods",
+  "source": "@site/docs/module-5-real-world-humanoids/chapter-6-performance-evaluation.md",
+  "sourceDirName": "module-5-real-world-humanoids",
+  "slug": "/module-5-real-world-humanoids/chapter-6-performance-evaluation",
+  "permalink": "/docs/module-5-real-world-humanoids/chapter-6-performance-evaluation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-5-real-world-humanoids/chapter-6-performance-evaluation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Chapter 6: Performance Evaluation and Optimization"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 5: Testing and Validation Framework",
+    "permalink": "/docs/module-5-real-world-humanoids/chapter-5-testing-validation"
+  },
+  "next": {
+    "title": "Chapter 7: Deployment and Maintenance Operations",
+    "permalink": "/docs/module-5-real-world-humanoids/chapter-7-deployment-maintenance"
+  }
+}

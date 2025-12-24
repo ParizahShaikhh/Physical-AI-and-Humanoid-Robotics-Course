@@ -1,0 +1,24 @@
+{
+  "id": "module-4-vla-systems/chapter-1-vla-physical-ai",
+  "title": "Chapter 1: Vision-Language-Action in Physical AI",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-4-vla-systems/chapter-1-vla-physical-ai.md",
+  "sourceDirName": "module-4-vla-systems",
+  "slug": "/module-4-vla-systems/chapter-1-vla-physical-ai",
+  "permalink": "/docs/module-4-vla-systems/chapter-1-vla-physical-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-vla-systems/chapter-1-vla-physical-ai.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 4: Vision-Language-Action (VLA)",
+    "permalink": "/docs/module-4-vla-systems/"
+  },
+  "next": {
+    "title": "Chapter 2: Speech-to-Text with OpenAI Whisper",
+    "permalink": "/docs/module-4-vla-systems/chapter-2-speech-to-text"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "module-7-capstone-eval/chapter-6-documentation-demos",
+  "title": "Chapter 6 - Documentation, Demos, and Reproducibility",
+  "description": "Creating professional documentation, compelling demos, and reproducible work for the capstone project.",
+  "source": "@site/docs/module-7-capstone-eval/chapter-6-documentation-demos.md",
+  "sourceDirName": "module-7-capstone-eval",
+  "slug": "/module-7-capstone-eval/chapter-6-documentation-demos",
+  "permalink": "/docs/module-7-capstone-eval/chapter-6-documentation-demos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-7-capstone-eval/chapter-6-documentation-demos.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Chapter 6 - Documentation, Demos, and Reproducibility",
+    "sidebar_label": "Chapter 6 - Documentation & Demos",
+    "description": "Creating professional documentation, compelling demos, and reproducible work for the capstone project.",
+    "keywords": [
+      "documentation",
+      "demos",
+      "reproducibility",
+      "professional practice",
+      "presentation"
+    ],
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 5 - Failures & Limitations",
+    "permalink": "/docs/module-7-capstone-eval/chapter-5-failure-modes"
+  },
+  "next": {
+    "title": "Chapter 7 - Real-World Applications",
+    "permalink": "/docs/module-7-capstone-eval/chapter-7-real-world-applications"
+  }
+}

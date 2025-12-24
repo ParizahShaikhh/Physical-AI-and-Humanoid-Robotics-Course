@@ -1,0 +1,24 @@
+{
+  "id": "module-4-vla-systems/chapter-7-capstone",
+  "title": "Chapter 7: Capstone - The Autonomous Humanoid",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-4-vla-systems/chapter-7-capstone.md",
+  "sourceDirName": "module-4-vla-systems",
+  "slug": "/module-4-vla-systems/chapter-7-capstone",
+  "permalink": "/docs/module-4-vla-systems/chapter-7-capstone",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-vla-systems/chapter-7-capstone.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 6: Orchestrating ROS 2 Actions for Autonomy",
+    "permalink": "/docs/module-4-vla-systems/chapter-6-ros2-orchestration"
+  },
+  "next": {
+    "title": "Module 5: Deployment, Integration, and Real-World Humanoids",
+    "permalink": "/docs/module-5-real-world-humanoids/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-5-real-world-humanoids/chapter-4-safety-human-interaction",
+  "title": "Chapter 4: Safety and Human Interaction Protocols",
+  "description": "Safety Protocol Fundamentals",
+  "source": "@site/docs/module-5-real-world-humanoids/chapter-4-safety-human-interaction.md",
+  "sourceDirName": "module-5-real-world-humanoids",
+  "slug": "/module-5-real-world-humanoids/chapter-4-safety-human-interaction",
+  "permalink": "/docs/module-5-real-world-humanoids/chapter-4-safety-human-interaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-5-real-world-humanoids/chapter-4-safety-human-interaction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Chapter 4: Safety and Human Interaction Protocols"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: System Integration and Runtime Orchestration",
+    "permalink": "/docs/module-5-real-world-humanoids/chapter-3-system-integration"
+  },
+  "next": {
+    "title": "Chapter 5: Testing and Validation Framework",
+    "permalink": "/docs/module-5-real-world-humanoids/chapter-5-testing-validation"
+  }
+}

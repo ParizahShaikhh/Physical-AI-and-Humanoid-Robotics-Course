@@ -1,0 +1,30 @@
+{
+  "id": "module-2-digital-twin/chapter-2-gazebo-architecture",
+  "title": "Chapter 2: Gazebo Architecture and Physics Simulation",
+  "description": "Understanding Gazebo architecture and physics simulation principles for robotics",
+  "source": "@site/docs/module-2-digital-twin/chapter-2-gazebo-architecture.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/chapter-2-gazebo-architecture",
+  "permalink": "/docs/module-2-digital-twin/chapter-2-gazebo-architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-digital-twin/chapter-2-gazebo-architecture.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Chapter 2: Gazebo Architecture and Physics Simulation",
+    "sidebar_position": 2,
+    "title": "Chapter 2: Gazebo Architecture and Physics Simulation",
+    "description": "Understanding Gazebo architecture and physics simulation principles for robotics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Digital Twins in Physical AI",
+    "permalink": "/docs/module-2-digital-twin/chapter-1-digital-twins"
+  },
+  "next": {
+    "title": "Chapter 3: Simulating Gravity, Collisions, and Contacts",
+    "permalink": "/docs/module-2-digital-twin/chapter-3-physics-simulation"
+  }
+}

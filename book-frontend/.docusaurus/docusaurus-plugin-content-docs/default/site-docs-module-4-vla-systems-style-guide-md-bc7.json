@@ -1,0 +1,15 @@
+{
+  "id": "module-4-vla-systems/style-guide",
+  "title": "VLA Module Style Guide",
+  "description": "This document outlines the formatting standards and templates for code examples and diagrams in the Vision-Language-Action module.",
+  "source": "@site/docs/module-4-vla-systems/style-guide.md",
+  "sourceDirName": "module-4-vla-systems",
+  "slug": "/module-4-vla-systems/style-guide",
+  "permalink": "/docs/module-4-vla-systems/style-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-vla-systems/style-guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,30 @@
+{
+  "id": "module-2-digital-twin/chapter-6-simulated-sensors",
+  "title": "Chapter 6: Simulated Sensors - LiDAR, Depth Cameras, IMUs",
+  "description": "Configuring and using simulated sensors for robotics perception",
+  "source": "@site/docs/module-2-digital-twin/chapter-6-simulated-sensors.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/chapter-6-simulated-sensors",
+  "permalink": "/docs/module-2-digital-twin/chapter-6-simulated-sensors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-digital-twin/chapter-6-simulated-sensors.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Chapter 6: Simulated Sensors - LiDAR, Depth Cameras, IMUs",
+    "sidebar_position": 6,
+    "title": "Chapter 6: Simulated Sensors - LiDAR, Depth Cameras, IMUs",
+    "description": "Configuring and using simulated sensors for robotics perception"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 5: Unity for High-Fidelity Human–Robot Interaction",
+    "permalink": "/docs/module-2-digital-twin/chapter-5-unity-interaction"
+  },
+  "next": {
+    "title": "Chapter 7: Preparing Simulations for AI Training and Testing",
+    "permalink": "/docs/module-2-digital-twin/chapter-7-ai-training"
+  }
+}

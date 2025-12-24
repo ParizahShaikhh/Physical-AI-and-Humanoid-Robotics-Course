@@ -1,0 +1,30 @@
+{
+  "id": "module-3-ai-robot-brain/chapter-2-isaac-platform",
+  "title": "Chapter 2: NVIDIA Isaac Platform Overview",
+  "description": "Comprehensive overview of the NVIDIA Isaac platform components and their applications in AI-driven robotics",
+  "source": "@site/docs/module-3-ai-robot-brain/chapter-2-isaac-platform.md",
+  "sourceDirName": "module-3-ai-robot-brain",
+  "slug": "/module-3-ai-robot-brain/chapter-2-isaac-platform",
+  "permalink": "/docs/module-3-ai-robot-brain/chapter-2-isaac-platform",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-ai-robot-brain/chapter-2-isaac-platform.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Chapter 2: NVIDIA Isaac Platform Overview",
+    "sidebar_position": 2,
+    "title": "Chapter 2: NVIDIA Isaac Platform Overview",
+    "description": "Comprehensive overview of the NVIDIA Isaac platform components and their applications in AI-driven robotics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: From Simulation to Intelligence",
+    "permalink": "/docs/module-3-ai-robot-brain/chapter-1-simulation-intelligence"
+  },
+  "next": {
+    "title": "Chapter 3: Isaac Sim and Photorealistic Worlds",
+    "permalink": "/docs/module-3-ai-robot-brain/chapter-3-isaac-sim-worlds"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-7-capstone-eval/capstone-project-template",
+  "title": "Capstone Project Template",
+  "description": "Template and guidelines for implementing your own capstone project integrating all course concepts.",
+  "source": "@site/docs/module-7-capstone-eval/capstone-project-template.md",
+  "sourceDirName": "module-7-capstone-eval",
+  "slug": "/module-7-capstone-eval/capstone-project-template",
+  "permalink": "/docs/module-7-capstone-eval/capstone-project-template",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-7-capstone-eval/capstone-project-template.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Capstone Project Template",
+    "sidebar_label": "Capstone Project Template",
+    "description": "Template and guidelines for implementing your own capstone project integrating all course concepts.",
+    "keywords": [
+      "capstone project",
+      "template",
+      "implementation",
+      "guidelines",
+      "humanoid robotics"
+    ],
+    "sidebar_position": 9
+  }
+}

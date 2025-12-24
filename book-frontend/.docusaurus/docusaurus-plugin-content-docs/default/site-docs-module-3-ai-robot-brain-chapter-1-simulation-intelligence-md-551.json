@@ -1,0 +1,30 @@
+{
+  "id": "module-3-ai-robot-brain/chapter-1-simulation-intelligence",
+  "title": "Chapter 1: From Simulation to Intelligence",
+  "description": "Understanding the transition from simulation environments to implementing AI-driven intelligence for humanoid robots",
+  "source": "@site/docs/module-3-ai-robot-brain/chapter-1-simulation-intelligence.md",
+  "sourceDirName": "module-3-ai-robot-brain",
+  "slug": "/module-3-ai-robot-brain/chapter-1-simulation-intelligence",
+  "permalink": "/docs/module-3-ai-robot-brain/chapter-1-simulation-intelligence",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-ai-robot-brain/chapter-1-simulation-intelligence.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Chapter 1: From Simulation to Intelligence",
+    "sidebar_position": 1,
+    "title": "Chapter 1: From Simulation to Intelligence",
+    "description": "Understanding the transition from simulation environments to implementing AI-driven intelligence for humanoid robots"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+    "permalink": "/docs/module-3-ai-robot-brain/"
+  },
+  "next": {
+    "title": "Chapter 2: NVIDIA Isaac Platform Overview",
+    "permalink": "/docs/module-3-ai-robot-brain/chapter-2-isaac-platform"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "module-7-capstone-eval/chapter-4-evaluation-metrics",
+  "title": "Chapter 4 - Evaluation Metrics and Validation",
+  "description": "Establishing quantitative metrics and validation procedures for evaluating the integrated humanoid robotics system.",
+  "source": "@site/docs/module-7-capstone-eval/chapter-4-evaluation-metrics.md",
+  "sourceDirName": "module-7-capstone-eval",
+  "slug": "/module-7-capstone-eval/chapter-4-evaluation-metrics",
+  "permalink": "/docs/module-7-capstone-eval/chapter-4-evaluation-metrics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-7-capstone-eval/chapter-4-evaluation-metrics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Chapter 4 - Evaluation Metrics and Validation",
+    "sidebar_label": "Chapter 4 - Evaluation",
+    "description": "Establishing quantitative metrics and validation procedures for evaluating the integrated humanoid robotics system.",
+    "keywords": [
+      "evaluation",
+      "metrics",
+      "validation",
+      "performance",
+      "humanoid robotics"
+    ],
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3 - Pipeline",
+    "permalink": "/docs/module-7-capstone-eval/chapter-3-end-to-end-pipeline"
+  },
+  "next": {
+    "title": "Chapter 5 - Failures & Limitations",
+    "permalink": "/docs/module-7-capstone-eval/chapter-5-failure-modes"
+  }
+}

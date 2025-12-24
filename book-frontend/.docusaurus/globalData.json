@@ -1,0 +1,360 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "module-1-ros2/index",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro"
+            },
+            {
+              "id": "module-1-ros2/chapter-1-introduction",
+              "path": "/docs/module-1-ros2/chapter-1-introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-2-architecture",
+              "path": "/docs/module-1-ros2/chapter-2-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-3-topics",
+              "path": "/docs/module-1-ros2/chapter-3-topics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-4-services-actions",
+              "path": "/docs/module-1-ros2/chapter-4-services-actions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-5-python-agents",
+              "path": "/docs/module-1-ros2/chapter-5-python-agents",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-6-urdf-modeling",
+              "path": "/docs/module-1-ros2/chapter-6-urdf-modeling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-7-end-to-end",
+              "path": "/docs/module-1-ros2/chapter-7-end-to-end",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/index",
+              "path": "/docs/module-1-ros2/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/chapter-1-digital-twins",
+              "path": "/docs/module-2-digital-twin/chapter-1-digital-twins",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/chapter-2-gazebo-architecture",
+              "path": "/docs/module-2-digital-twin/chapter-2-gazebo-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/chapter-3-physics-simulation",
+              "path": "/docs/module-2-digital-twin/chapter-3-physics-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/chapter-4-ros2-integration",
+              "path": "/docs/module-2-digital-twin/chapter-4-ros2-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/chapter-5-unity-interaction",
+              "path": "/docs/module-2-digital-twin/chapter-5-unity-interaction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/chapter-6-simulated-sensors",
+              "path": "/docs/module-2-digital-twin/chapter-6-simulated-sensors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/chapter-7-ai-training",
+              "path": "/docs/module-2-digital-twin/chapter-7-ai-training",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/index",
+              "path": "/docs/module-2-digital-twin/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-ai-robot-brain/chapter-1-simulation-intelligence",
+              "path": "/docs/module-3-ai-robot-brain/chapter-1-simulation-intelligence",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-ai-robot-brain/chapter-2-isaac-platform",
+              "path": "/docs/module-3-ai-robot-brain/chapter-2-isaac-platform",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-ai-robot-brain/chapter-3-isaac-sim-worlds",
+              "path": "/docs/module-3-ai-robot-brain/chapter-3-isaac-sim-worlds",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-ai-robot-brain/chapter-4-synthetic-data",
+              "path": "/docs/module-3-ai-robot-brain/chapter-4-synthetic-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-ai-robot-brain/chapter-5-isaac-ros-perception",
+              "path": "/docs/module-3-ai-robot-brain/chapter-5-isaac-ros-perception",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-ai-robot-brain/chapter-6-vslam-navigation",
+              "path": "/docs/module-3-ai-robot-brain/chapter-6-vslam-navigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-ai-robot-brain/chapter-7-vla-systems",
+              "path": "/docs/module-3-ai-robot-brain/chapter-7-vla-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-ai-robot-brain/index",
+              "path": "/docs/module-3-ai-robot-brain/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla-systems/chapter-1-vla-physical-ai",
+              "path": "/docs/module-4-vla-systems/chapter-1-vla-physical-ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla-systems/chapter-2-speech-to-text",
+              "path": "/docs/module-4-vla-systems/chapter-2-speech-to-text",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla-systems/chapter-3-language-understanding",
+              "path": "/docs/module-4-vla-systems/chapter-3-language-understanding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla-systems/chapter-4-llm-planning",
+              "path": "/docs/module-4-vla-systems/chapter-4-llm-planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla-systems/chapter-5-vision-action",
+              "path": "/docs/module-4-vla-systems/chapter-5-vision-action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla-systems/chapter-6-ros2-orchestration",
+              "path": "/docs/module-4-vla-systems/chapter-6-ros2-orchestration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla-systems/chapter-7-capstone",
+              "path": "/docs/module-4-vla-systems/chapter-7-capstone",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla-systems/index",
+              "path": "/docs/module-4-vla-systems/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla-systems/reference-terminology",
+              "path": "/docs/module-4-vla-systems/reference-terminology"
+            },
+            {
+              "id": "module-4-vla-systems/style-guide",
+              "path": "/docs/module-4-vla-systems/style-guide"
+            },
+            {
+              "id": "module-5-real-world-humanoids/chapter-1-simulation-reality",
+              "path": "/docs/module-5-real-world-humanoids/chapter-1-simulation-reality",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-5-real-world-humanoids/chapter-2-sim-to-real-transfer",
+              "path": "/docs/module-5-real-world-humanoids/chapter-2-sim-to-real-transfer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-5-real-world-humanoids/chapter-3-system-integration",
+              "path": "/docs/module-5-real-world-humanoids/chapter-3-system-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-5-real-world-humanoids/chapter-4-safety-human-interaction",
+              "path": "/docs/module-5-real-world-humanoids/chapter-4-safety-human-interaction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-5-real-world-humanoids/chapter-5-testing-validation",
+              "path": "/docs/module-5-real-world-humanoids/chapter-5-testing-validation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-5-real-world-humanoids/chapter-6-performance-evaluation",
+              "path": "/docs/module-5-real-world-humanoids/chapter-6-performance-evaluation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-5-real-world-humanoids/chapter-7-deployment-maintenance",
+              "path": "/docs/module-5-real-world-humanoids/chapter-7-deployment-maintenance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-5-real-world-humanoids/index",
+              "path": "/docs/module-5-real-world-humanoids/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-6-advanced-topics/chapter-1-scaling-physical-ai",
+              "path": "/docs/module-6-advanced-topics/chapter-1-scaling-physical-ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-6-advanced-topics/chapter-2-performance-optimization",
+              "path": "/docs/module-6-advanced-topics/chapter-2-performance-optimization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-6-advanced-topics/chapter-3-human-robot-collaboration",
+              "path": "/docs/module-6-advanced-topics/chapter-3-human-robot-collaboration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-6-advanced-topics/chapter-4-continuous-learning",
+              "path": "/docs/module-6-advanced-topics/chapter-4-continuous-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-6-advanced-topics/chapter-5-reliability-governance",
+              "path": "/docs/module-6-advanced-topics/chapter-5-reliability-governance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-6-advanced-topics/chapter-6-emerging-trends",
+              "path": "/docs/module-6-advanced-topics/chapter-6-emerging-trends",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-6-advanced-topics/chapter-7-future-embodied",
+              "path": "/docs/module-6-advanced-topics/chapter-7-future-embodied",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-6-advanced-topics/index",
+              "path": "/docs/module-6-advanced-topics/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-7-capstone-eval/assessment-rubric",
+              "path": "/docs/module-7-capstone-eval/assessment-rubric"
+            },
+            {
+              "id": "module-7-capstone-eval/capstone-project-template",
+              "path": "/docs/module-7-capstone-eval/capstone-project-template"
+            },
+            {
+              "id": "module-7-capstone-eval/chapter-1-capstone-overview",
+              "path": "/docs/module-7-capstone-eval/chapter-1-capstone-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-7-capstone-eval/chapter-2-system-architecture",
+              "path": "/docs/module-7-capstone-eval/chapter-2-system-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-7-capstone-eval/chapter-3-end-to-end-pipeline",
+              "path": "/docs/module-7-capstone-eval/chapter-3-end-to-end-pipeline",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-7-capstone-eval/chapter-4-evaluation-metrics",
+              "path": "/docs/module-7-capstone-eval/chapter-4-evaluation-metrics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-7-capstone-eval/chapter-5-failure-modes",
+              "path": "/docs/module-7-capstone-eval/chapter-5-failure-modes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-7-capstone-eval/chapter-6-documentation-demos",
+              "path": "/docs/module-7-capstone-eval/chapter-6-documentation-demos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-7-capstone-eval/chapter-7-real-world-applications",
+              "path": "/docs/module-7-capstone-eval/chapter-7-real-world-applications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-7-capstone-eval/index",
+              "path": "/docs/module-7-capstone-eval/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/docs/tutorial-basics/congratulations"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/docs/tutorial-basics/create-a-blog-post"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/docs/tutorial-basics/create-a-document"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/docs/tutorial-basics/create-a-page"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/docs/tutorial-basics/deploy-your-site"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/docs/tutorial-basics/markdown-features"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/module-1-ros2/",
+                "label": "module-1-ros2/index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

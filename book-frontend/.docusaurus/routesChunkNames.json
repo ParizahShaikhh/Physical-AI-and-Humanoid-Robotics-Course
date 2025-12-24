@@ -1,0 +1,348 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-696": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-fc3": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-efd": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/intro-853": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/module-1-ros2/-d34": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-4-dd-adb"
+  },
+  "/docs/module-1-ros2/chapter-1-introduction-12f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-chapter-1-introductionb-85-259"
+  },
+  "/docs/module-1-ros2/chapter-2-architecture-b1c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-chapter-2-architecture-46-d-7dd"
+  },
+  "/docs/module-1-ros2/chapter-3-topics-668": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-chapter-3-topics-9-b-2-609"
+  },
+  "/docs/module-1-ros2/chapter-4-services-actions-73d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-chapter-4-services-actionsa-97-8cf"
+  },
+  "/docs/module-1-ros2/chapter-5-python-agents-7d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-chapter-5-python-agents-73-f-602"
+  },
+  "/docs/module-1-ros2/chapter-6-urdf-modeling-17c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-chapter-6-urdf-modelingeb-1-bd0"
+  },
+  "/docs/module-1-ros2/chapter-7-end-to-end-c51": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-chapter-7-end-to-enddf-3-836"
+  },
+  "/docs/module-2-digital-twin/-b7a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-digital-twin-811-635"
+  },
+  "/docs/module-2-digital-twin/chapter-1-digital-twins-37e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-digital-twin-chapter-1-digital-twinsac-6-907"
+  },
+  "/docs/module-2-digital-twin/chapter-2-gazebo-architecture-9bc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-digital-twin-chapter-2-gazebo-architecturee-34-bd8"
+  },
+  "/docs/module-2-digital-twin/chapter-3-physics-simulation-6f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-digital-twin-chapter-3-physics-simulation-376-eaa"
+  },
+  "/docs/module-2-digital-twin/chapter-4-ros2-integration-cf7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-digital-twin-chapter-4-ros-2-integration-3-f-1-b31"
+  },
+  "/docs/module-2-digital-twin/chapter-5-unity-interaction-845": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-digital-twin-chapter-5-unity-interaction-2-f-4-e6a"
+  },
+  "/docs/module-2-digital-twin/chapter-6-simulated-sensors-9c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-digital-twin-chapter-6-simulated-sensorsdde-8df"
+  },
+  "/docs/module-2-digital-twin/chapter-7-ai-training-c91": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-digital-twin-chapter-7-ai-training-146-7c7"
+  },
+  "/docs/module-3-ai-robot-brain/-9b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-ai-robot-brain-8-c-6-81d"
+  },
+  "/docs/module-3-ai-robot-brain/chapter-1-simulation-intelligence-f1b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-ai-robot-brain-chapter-1-simulation-intelligence-551-443"
+  },
+  "/docs/module-3-ai-robot-brain/chapter-2-isaac-platform-767": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-ai-robot-brain-chapter-2-isaac-platformee-2-e45"
+  },
+  "/docs/module-3-ai-robot-brain/chapter-3-isaac-sim-worlds-d16": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-ai-robot-brain-chapter-3-isaac-sim-worldsff-4-b3c"
+  },
+  "/docs/module-3-ai-robot-brain/chapter-4-synthetic-data-16f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-ai-robot-brain-chapter-4-synthetic-dataedd-574"
+  },
+  "/docs/module-3-ai-robot-brain/chapter-5-isaac-ros-perception-398": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-ai-robot-brain-chapter-5-isaac-ros-perception-482-a16"
+  },
+  "/docs/module-3-ai-robot-brain/chapter-6-vslam-navigation-122": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-ai-robot-brain-chapter-6-vslam-navigationa-61-4cb"
+  },
+  "/docs/module-3-ai-robot-brain/chapter-7-vla-systems-d09": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-ai-robot-brain-chapter-7-vla-systems-7-ab-594"
+  },
+  "/docs/module-4-vla-systems/-363": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-systems-284-2fc"
+  },
+  "/docs/module-4-vla-systems/chapter-1-vla-physical-ai-e85": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-systems-chapter-1-vla-physical-aib-44-2f2"
+  },
+  "/docs/module-4-vla-systems/chapter-2-speech-to-text-605": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-systems-chapter-2-speech-to-text-614-75e"
+  },
+  "/docs/module-4-vla-systems/chapter-3-language-understanding-5bf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-systems-chapter-3-language-understandinga-92-a97"
+  },
+  "/docs/module-4-vla-systems/chapter-4-llm-planning-0cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-systems-chapter-4-llm-planningf-80-dac"
+  },
+  "/docs/module-4-vla-systems/chapter-5-vision-action-9e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-systems-chapter-5-vision-action-6-b-7-d79"
+  },
+  "/docs/module-4-vla-systems/chapter-6-ros2-orchestration-b3a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-systems-chapter-6-ros-2-orchestrationf-0-f-026"
+  },
+  "/docs/module-4-vla-systems/chapter-7-capstone-82d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-systems-chapter-7-capstonee-5-c-f2a"
+  },
+  "/docs/module-4-vla-systems/reference-terminology-b34": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-systems-reference-terminology-2-ef-12d"
+  },
+  "/docs/module-4-vla-systems/style-guide-9a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-systems-style-guidebc-7-fed"
+  },
+  "/docs/module-5-real-world-humanoids/-542": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-5-real-world-humanoids-419-d23"
+  },
+  "/docs/module-5-real-world-humanoids/chapter-1-simulation-reality-1e0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-5-real-world-humanoids-chapter-1-simulation-reality-995-928"
+  },
+  "/docs/module-5-real-world-humanoids/chapter-2-sim-to-real-transfer-501": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-5-real-world-humanoids-chapter-2-sim-to-real-transfer-416-0d7"
+  },
+  "/docs/module-5-real-world-humanoids/chapter-3-system-integration-f0c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-5-real-world-humanoids-chapter-3-system-integration-8-d-7-8d7"
+  },
+  "/docs/module-5-real-world-humanoids/chapter-4-safety-human-interaction-6a1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-5-real-world-humanoids-chapter-4-safety-human-interaction-8-ce-38d"
+  },
+  "/docs/module-5-real-world-humanoids/chapter-5-testing-validation-7a3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-5-real-world-humanoids-chapter-5-testing-validationf-24-1b4"
+  },
+  "/docs/module-5-real-world-humanoids/chapter-6-performance-evaluation-198": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-5-real-world-humanoids-chapter-6-performance-evaluationbb-9-4ba"
+  },
+  "/docs/module-5-real-world-humanoids/chapter-7-deployment-maintenance-d43": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-5-real-world-humanoids-chapter-7-deployment-maintenance-07-f-77a"
+  },
+  "/docs/module-6-advanced-topics/-e4a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-6-advanced-topics-d-0-d-650"
+  },
+  "/docs/module-6-advanced-topics/chapter-1-scaling-physical-ai-412": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-6-advanced-topics-chapter-1-scaling-physical-ai-0-e-6-848"
+  },
+  "/docs/module-6-advanced-topics/chapter-2-performance-optimization-426": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-6-advanced-topics-chapter-2-performance-optimizationac-0-145"
+  },
+  "/docs/module-6-advanced-topics/chapter-3-human-robot-collaboration-224": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-6-advanced-topics-chapter-3-human-robot-collaboration-7-cb-f07"
+  },
+  "/docs/module-6-advanced-topics/chapter-4-continuous-learning-803": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-6-advanced-topics-chapter-4-continuous-learning-98-b-b7b"
+  },
+  "/docs/module-6-advanced-topics/chapter-5-reliability-governance-bf3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-6-advanced-topics-chapter-5-reliability-governancef-6-b-49e"
+  },
+  "/docs/module-6-advanced-topics/chapter-6-emerging-trends-7c9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-6-advanced-topics-chapter-6-emerging-trends-0-a-8-923"
+  },
+  "/docs/module-6-advanced-topics/chapter-7-future-embodied-f5e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-6-advanced-topics-chapter-7-future-embodiedaab-4a0"
+  },
+  "/docs/module-7-capstone-eval/-c20": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-7-capstone-eval-050-d4f"
+  },
+  "/docs/module-7-capstone-eval/assessment-rubric-655": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-7-capstone-eval-assessment-rubricce-7-304"
+  },
+  "/docs/module-7-capstone-eval/capstone-project-template-f97": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-7-capstone-eval-capstone-project-template-5-fc-6b4"
+  },
+  "/docs/module-7-capstone-eval/chapter-1-capstone-overview-3fe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-7-capstone-eval-chapter-1-capstone-overviewfc-2-833"
+  },
+  "/docs/module-7-capstone-eval/chapter-2-system-architecture-384": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-7-capstone-eval-chapter-2-system-architecturec-53-142"
+  },
+  "/docs/module-7-capstone-eval/chapter-3-end-to-end-pipeline-605": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-7-capstone-eval-chapter-3-end-to-end-pipeline-017-11a"
+  },
+  "/docs/module-7-capstone-eval/chapter-4-evaluation-metrics-9fb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-7-capstone-eval-chapter-4-evaluation-metricsb-9-a-c99"
+  },
+  "/docs/module-7-capstone-eval/chapter-5-failure-modes-2df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-7-capstone-eval-chapter-5-failure-modes-7-cb-8e3"
+  },
+  "/docs/module-7-capstone-eval/chapter-6-documentation-demos-657": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-7-capstone-eval-chapter-6-documentation-demos-9-d-4-c52"
+  },
+  "/docs/module-7-capstone-eval/chapter-7-real-world-applications-22b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-7-capstone-eval-chapter-7-real-world-applications-61-b-7a6"
+  },
+  "/docs/tutorial-basics/congratulations-70e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-congratulations-822-958"
+  },
+  "/docs/tutorial-basics/create-a-blog-post-315": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
+  },
+  "/docs/tutorial-basics/create-a-document-f86": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
+  },
+  "/docs/tutorial-basics/create-a-page-9f6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
+  },
+  "/docs/tutorial-basics/deploy-your-site-b91": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
+  },
+  "/docs/tutorial-basics/markdown-features-272": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
+  },
+  "/docs/tutorial-extras/manage-docs-versions-a34": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
+  },
+  "/docs/tutorial-extras/translate-your-site-739": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+  },
+  "/-e5f": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

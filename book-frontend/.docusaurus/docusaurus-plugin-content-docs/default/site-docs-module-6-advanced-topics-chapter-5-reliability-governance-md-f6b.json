@@ -1,0 +1,28 @@
+{
+  "id": "module-6-advanced-topics/chapter-5-reliability-governance",
+  "title": "Chapter 5: Reliability, Safety, and Governance at Scale",
+  "description": "Introduction to Reliability and Safety at Scale",
+  "source": "@site/docs/module-6-advanced-topics/chapter-5-reliability-governance.md",
+  "sourceDirName": "module-6-advanced-topics",
+  "slug": "/module-6-advanced-topics/chapter-5-reliability-governance",
+  "permalink": "/docs/module-6-advanced-topics/chapter-5-reliability-governance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-6-advanced-topics/chapter-5-reliability-governance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Chapter 5: Reliability, Safety, and Governance at Scale"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: Continuous Learning and On-Device Adaptation",
+    "permalink": "/docs/module-6-advanced-topics/chapter-4-continuous-learning"
+  },
+  "next": {
+    "title": "Chapter 6: Emerging Trends in Humanoid Robotics",
+    "permalink": "/docs/module-6-advanced-topics/chapter-6-emerging-trends"
+  }
+}

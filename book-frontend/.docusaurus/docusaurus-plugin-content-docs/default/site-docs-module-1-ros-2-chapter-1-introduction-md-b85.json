@@ -1,0 +1,30 @@
+{
+  "id": "module-1-ros2/chapter-1-introduction",
+  "title": "Chapter 1: Introduction to Physical AI and ROS 2",
+  "description": "Understanding the role of ROS 2 in embodied intelligence",
+  "source": "@site/docs/module-1-ros2/chapter-1-introduction.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/chapter-1-introduction",
+  "permalink": "/docs/module-1-ros2/chapter-1-introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/chapter-1-introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Chapter 1: Introduction",
+    "sidebar_position": 1,
+    "title": "Chapter 1: Introduction to Physical AI and ROS 2",
+    "description": "Understanding the role of ROS 2 in embodied intelligence"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1: The Robotic Nervous System (ROS 2)",
+    "permalink": "/docs/module-1-ros2/"
+  },
+  "next": {
+    "title": "Chapter 2: Architecture",
+    "permalink": "/docs/module-1-ros2/chapter-2-architecture"
+  }
+}

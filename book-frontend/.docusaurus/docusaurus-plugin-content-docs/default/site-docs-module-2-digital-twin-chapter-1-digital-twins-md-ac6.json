@@ -1,0 +1,30 @@
+{
+  "id": "module-2-digital-twin/chapter-1-digital-twins",
+  "title": "Chapter 1: Digital Twins in Physical AI",
+  "description": "Understanding the role of digital twins in robotics and Physical AI development",
+  "source": "@site/docs/module-2-digital-twin/chapter-1-digital-twins.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/chapter-1-digital-twins",
+  "permalink": "/docs/module-2-digital-twin/chapter-1-digital-twins",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-digital-twin/chapter-1-digital-twins.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Chapter 1: Digital Twins in Physical AI",
+    "sidebar_position": 1,
+    "title": "Chapter 1: Digital Twins in Physical AI",
+    "description": "Understanding the role of digital twins in robotics and Physical AI development"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+    "permalink": "/docs/module-2-digital-twin/"
+  },
+  "next": {
+    "title": "Chapter 2: Gazebo Architecture and Physics Simulation",
+    "permalink": "/docs/module-2-digital-twin/chapter-2-gazebo-architecture"
+  }
+}

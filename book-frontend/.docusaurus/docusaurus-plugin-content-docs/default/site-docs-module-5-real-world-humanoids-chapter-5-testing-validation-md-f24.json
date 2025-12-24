@@ -1,0 +1,28 @@
+{
+  "id": "module-5-real-world-humanoids/chapter-5-testing-validation",
+  "title": "Chapter 5: Testing and Validation Framework",
+  "description": "Overview of Testing Framework for Humanoid Systems",
+  "source": "@site/docs/module-5-real-world-humanoids/chapter-5-testing-validation.md",
+  "sourceDirName": "module-5-real-world-humanoids",
+  "slug": "/module-5-real-world-humanoids/chapter-5-testing-validation",
+  "permalink": "/docs/module-5-real-world-humanoids/chapter-5-testing-validation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-5-real-world-humanoids/chapter-5-testing-validation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Chapter 5: Testing and Validation Framework"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: Safety and Human Interaction Protocols",
+    "permalink": "/docs/module-5-real-world-humanoids/chapter-4-safety-human-interaction"
+  },
+  "next": {
+    "title": "Chapter 6: Performance Evaluation and Optimization",
+    "permalink": "/docs/module-5-real-world-humanoids/chapter-6-performance-evaluation"
+  }
+}
