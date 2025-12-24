@@ -15,7 +15,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://parizahshaikhh.github.io/Physical-AI-and-Humanoid-Robotics-Course/',
+  url: 'https://physical-ai-and-humanoid-robotics-c-flame.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub Pages deployment, use the repository name
   baseUrl: '/',
