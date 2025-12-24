@@ -1,6 +1,3 @@
 {
-  "rootDirectory": "book-frontend",
-  "framework": "docusaurus",
-  "buildCommand": "npm run build",
-  "outputDirectory": "build"
+  "framework": "docusaurus"
 }
