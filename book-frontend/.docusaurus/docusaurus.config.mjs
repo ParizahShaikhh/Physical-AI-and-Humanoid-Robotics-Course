@@ -28,8 +28,10 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "https://your-vercel-project-url.vercel.app",
+  "url": "https://your-docusaurus-site.example.com",
   "baseUrl": "/",
+  "organizationName": "ParizahShaikhh",
+  "projectName": "Physical-AI-and-Humanoid-Robotics-Course-Book1",
   "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "en",
